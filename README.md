@@ -1,4 +1,4 @@
-# InvisiMark
+# InvisiMark ;)
 
 A comprehensive Digital Image Processing project that provides steganography, invisible watermarking, and AI-powered tamper detection in a single package.
 
